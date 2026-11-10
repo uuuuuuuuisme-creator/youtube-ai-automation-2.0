@@ -1,0 +1,28 @@
+[Script Info]
+Title: ShortForge AI Dynamic Shorts Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,76,&H0000FFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,2,0,1,8,4,2,60,60,760,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.00,Default,,0,0,0,,WHAT THEY DISCOVERED BENEATH
+Dialogue: 0,0:00:01.00,0:00:02.00,Default,,0,0,0,,BERMUDA TRIANGLE DEEP SONAR
+Dialogue: 0,0:00:02.00,0:00:03.00,Default,,0,0,0,,WAS NEVER SUPPOSED TO
+Dialogue: 0,0:00:03.00,0:00:04.00,Default,,0,0,0,,SEE THE LIGHT OF
+Dialogue: 0,0:00:04.00,0:00:05.00,Default,,0,0,0,,DAY.
+Dialogue: 0,0:00:05.00,0:00:06.25,Default,,0,0,0,,FOR CENTURIES, HISTORIANS WERE
+Dialogue: 0,0:00:06.25,0:00:07.50,Default,,0,0,0,,BAFFLED BY A SUDDEN
+Dialogue: 0,0:00:07.50,0:00:08.75,Default,,0,0,0,,DISAPPEARANCE RECORDED IN ANCIENT
+Dialogue: 0,0:00:08.75,0:00:10.00,Default,,0,0,0,,LEDGERS.
+Dialogue: 0,0:00:10.00,0:00:11.25,Default,,0,0,0,,WHEN MODERN UNDERGROUND SONAR
+Dialogue: 0,0:00:11.25,0:00:12.50,Default,,0,0,0,,EQUIPMENT WAS DEPLOYED, THEY
+Dialogue: 0,0:00:12.50,0:00:13.75,Default,,0,0,0,,FOUND AN ENGINEERED HOLLOW
+Dialogue: 0,0:00:13.75,0:00:15.00,Default,,0,0,0,,CHAMBER.

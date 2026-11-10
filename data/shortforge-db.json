@@ -1,0 +1,475 @@
+{
+  "channel": {
+    "connected": false,
+    "channelTitle": "Not Connected",
+    "subscriberCount": 0,
+    "videoCount": 0,
+    "viewCount": 0
+  },
+  "settings": {
+    "youtube": {},
+    "automation": {
+      "enabled": false,
+      "status": "stopped",
+      "dailyTarget": 2,
+      "uploadTimes": [
+        "12:00",
+        "19:00"
+      ],
+      "timezone": "America/New_York",
+      "defaultNiche": "Mystery",
+      "defaultVideoLength": 60,
+      "autoPublishMode": "scheduled",
+      "requireApprovalBeforeUpload": false,
+      "todayGeneratedCount": 3,
+      "todayPublishedCount": 0,
+      "concurrencyLimit": 2
+    },
+    "voice": {
+      "provider": "adam_voice_authorized",
+      "voiceName": "Adam Voice",
+      "voiceStyle": "deep_storyteller",
+      "speed": 1,
+      "volume": 100,
+      "pitch": 1,
+      "isAuthorized": true,
+      "authorizationNotes": "Authorized owner license for Adam Voice narration model on ShortForge AI"
+    },
+    "firstTimeSetupCompleted": false
+  },
+  "videos": [
+    {
+      "id": "short_1794285300869_14lf",
+      "title": "The Shocking Truth About Cosmic Void Discovery",
+      "topic": "Cosmic Void Discovery",
+      "niche": "Space",
+      "durationTarget": 15,
+      "hook": "Astronomers just detected a signal from deep space that shouldn't mathematically exist.",
+      "script": "Astronomers just detected a signal from deep space that shouldn't mathematically exist. Telescopes tracking cosmic radiation picked up a repeating pulse with impossible symmetry. At first, researchers assumed it was an equipment glitch or a terrestrial satellite reflection.",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "durationSeconds": 5,
+          "visualPrompt": "Cinematic dramatic visual representing Cosmic Void Discovery in Space setting with atmospheric lighting",
+          "visualKeywords": [
+            "space",
+            "cinematic",
+            "mystery",
+            "dramatic"
+          ],
+          "narrationText": "Astronomers just detected a signal from deep space that shouldn't mathematically exist.",
+          "captionText": "Astronomers just detected a signal from deep space that shouldn't mathematically exist.",
+          "cameraMovement": "zoom-in"
+        },
+        {
+          "sceneNumber": 2,
+          "durationSeconds": 5,
+          "visualPrompt": "Cinematic dramatic visual representing Cosmic Void Discovery in Space setting with atmospheric lighting",
+          "visualKeywords": [
+            "space",
+            "cinematic",
+            "mystery",
+            "dramatic"
+          ],
+          "narrationText": "Telescopes tracking cosmic radiation picked up a repeating pulse with impossible symmetry.",
+          "captionText": "Telescopes tracking cosmic radiation picked up a repeating pulse with impossible symmetry.",
+          "cameraMovement": "pan-right"
+        },
+        {
+          "sceneNumber": 3,
+          "durationSeconds": 5,
+          "visualPrompt": "Cinematic dramatic visual representing Cosmic Void Discovery in Space setting with atmospheric lighting",
+          "visualKeywords": [
+            "space",
+            "cinematic",
+            "mystery",
+            "dramatic"
+          ],
+          "narrationText": "At first, researchers assumed it was an equipment glitch or a terrestrial satellite reflection.",
+          "captionText": "At first, researchers assumed it was an equipment glitch or a terrestrial satellite reflection.",
+          "cameraMovement": "zoom-in"
+        }
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Space",
+        "#MindBlown"
+      ],
+      "description": "The shocking truth behind Cosmic Void Discovery.\n\nProduced with ShortForge AI. Subscribe for daily revelations! #Shorts",
+      "status": "Ready",
+      "progress": 100,
+      "statusMessage": "Video rendering complete. MP4 file ready for streaming & download.",
+      "voiceName": "Adam Voice",
+      "voiceStyle": "deep_storyteller",
+      "voiceSpeed": 1,
+      "retryCount": 0,
+      "createdAt": "2026-11-10T04:35:00.869Z",
+      "updatedAt": "2026-11-10T04:35:15.916Z",
+      "audioPath": "/app/applet/data/audio/adam_1794285303591_sqya7.mp3",
+      "audioUrl": "/api/media/audio/adam_1794285303591_sqya7.mp3",
+      "actualDurationSeconds": 16.29,
+      "videoFilePath": "/app/applet/data/videos/short_1794285300869_14lf_short.mp4",
+      "videoUrl": "/api/media/videos/short_1794285300869_14lf_short.mp4",
+      "thumbnailPath": "/app/applet/data/thumbnails/short_1794285300869_14lf_thumb.jpg",
+      "thumbnailUrl": "/api/media/thumbnails/short_1794285300869_14lf_thumb.jpg"
+    },
+    {
+      "id": "short_1794282794644_o4n3",
+      "title": "The Shocking Truth About Bermuda Triangle Deep Sonar",
+      "topic": "Bermuda Triangle Deep Sonar",
+      "niche": "Mystery",
+      "durationTarget": 15,
+      "hook": "What they discovered beneath Bermuda Triangle Deep Sonar was never supposed to see the light of day.",
+      "script": "What they discovered beneath Bermuda Triangle Deep Sonar was never supposed to see the light of day. For centuries, historians were baffled by a sudden disappearance recorded in ancient ledgers. When modern underground sonar equipment was deployed, they found an engineered hollow chamber.",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "durationSeconds": 5,
+          "visualPrompt": "Cinematic dramatic visual representing Bermuda Triangle Deep Sonar in Mystery setting with atmospheric lighting",
+          "visualKeywords": [
+            "mystery",
+            "cinematic",
+            "mystery",
+            "dramatic"
+          ],
+          "narrationText": "What they discovered beneath Bermuda Triangle Deep Sonar was never supposed to see the light of day.",
+          "captionText": "What they discovered beneath Bermuda Triangle Deep Sonar was never supposed to see the light of day.",
+          "cameraMovement": "zoom-in"
+        },
+        {
+          "sceneNumber": 2,
+          "durationSeconds": 5,
+          "visualPrompt": "Cinematic dramatic visual representing Bermuda Triangle Deep Sonar in Mystery setting with atmospheric lighting",
+          "visualKeywords": [
+            "mystery",
+            "cinematic",
+            "mystery",
+            "dramatic"
+          ],
+          "narrationText": "For centuries, historians were baffled by a sudden disappearance recorded in ancient ledgers.",
+          "captionText": "For centuries, historians were baffled by a sudden disappearance recorded in ancient ledgers.",
+          "cameraMovement": "pan-right"
+        },
+        {
+          "sceneNumber": 3,
+          "durationSeconds": 5,
+          "visualPrompt": "Cinematic dramatic visual representing Bermuda Triangle Deep Sonar in Mystery setting with atmospheric lighting",
+          "visualKeywords": [
+            "mystery",
+            "cinematic",
+            "mystery",
+            "dramatic"
+          ],
+          "narrationText": "When modern underground sonar equipment was deployed, they found an engineered hollow chamber.",
+          "captionText": "When modern underground sonar equipment was deployed, they found an engineered hollow chamber.",
+          "cameraMovement": "zoom-in"
+        }
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Mystery",
+        "#MindBlown"
+      ],
+      "description": "The shocking truth behind Bermuda Triangle Deep Sonar.\n\nProduced with ShortForge AI. Subscribe for daily revelations! #Shorts",
+      "status": "Ready",
+      "progress": 100,
+      "statusMessage": "Video rendering complete. MP4 file ready for streaming & download.",
+      "voiceName": "Adam Voice",
+      "voiceStyle": "deep_storyteller",
+      "voiceSpeed": 1,
+      "retryCount": 0,
+      "createdAt": "2026-11-10T03:53:14.645Z",
+      "updatedAt": "2026-11-10T04:16:04.184Z",
+      "audioPath": "/app/applet/data/audio/adam_1794283377095_z7jrc.mp3",
+      "audioUrl": "/api/media/audio/adam_1794283377095_z7jrc.mp3",
+      "actualDurationSeconds": 18.43,
+      "videoFilePath": "/app/applet/data/videos/short_1794282794644_o4n3_short.mp4",
+      "videoUrl": "/api/media/videos/short_1794282794644_o4n3_short.mp4",
+      "thumbnailPath": "/app/applet/data/thumbnails/short_1794282794644_o4n3_thumb.jpg",
+      "thumbnailUrl": "/api/media/thumbnails/short_1794282794644_o4n3_thumb.jpg"
+    },
+    {
+      "id": "short_1794282739685_jrq8",
+      "title": "The Shocking Truth About The Oak Island Money Pit",
+      "topic": "The Oak Island Money Pit",
+      "niche": "Mystery",
+      "durationTarget": 30,
+      "hook": "What they discovered beneath The Oak Island Money Pit was never supposed to see the light of day.",
+      "script": "What they discovered beneath The Oak Island Money Pit was never supposed to see the light of day. For centuries, historians were baffled by a sudden disappearance recorded in ancient ledgers. When modern underground sonar equipment was deployed, they found an engineered hollow chamber.",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "durationSeconds": 10,
+          "visualPrompt": "Cinematic dramatic visual representing The Oak Island Money Pit in Mystery setting with atmospheric lighting",
+          "visualKeywords": [
+            "mystery",
+            "cinematic",
+            "mystery",
+            "dramatic"
+          ],
+          "narrationText": "What they discovered beneath The Oak Island Money Pit was never supposed to see the light of day.",
+          "captionText": "What they discovered beneath The Oak Island Money Pit was never supposed to see the light of day.",
+          "cameraMovement": "zoom-in"
+        },
+        {
+          "sceneNumber": 2,
+          "durationSeconds": 10,
+          "visualPrompt": "Cinematic dramatic visual representing The Oak Island Money Pit in Mystery setting with atmospheric lighting",
+          "visualKeywords": [
+            "mystery",
+            "cinematic",
+            "mystery",
+            "dramatic"
+          ],
+          "narrationText": "For centuries, historians were baffled by a sudden disappearance recorded in ancient ledgers.",
+          "captionText": "For centuries, historians were baffled by a sudden disappearance recorded in ancient ledgers.",
+          "cameraMovement": "pan-right"
+        },
+        {
+          "sceneNumber": 3,
+          "durationSeconds": 10,
+          "visualPrompt": "Cinematic dramatic visual representing The Oak Island Money Pit in Mystery setting with atmospheric lighting",
+          "visualKeywords": [
+            "mystery",
+            "cinematic",
+            "mystery",
+            "dramatic"
+          ],
+          "narrationText": "When modern underground sonar equipment was deployed, they found an engineered hollow chamber.",
+          "captionText": "When modern underground sonar equipment was deployed, they found an engineered hollow chamber.",
+          "cameraMovement": "zoom-in"
+        }
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Mystery",
+        "#MindBlown"
+      ],
+      "description": "The shocking truth behind The Oak Island Money Pit.\n\nProduced with ShortForge AI. Subscribe for daily revelations! #Shorts",
+      "status": "Ready",
+      "progress": 100,
+      "statusMessage": "Video rendering complete. MP4 file ready for streaming & download.",
+      "voiceName": "Adam Voice",
+      "voiceStyle": "deep_storyteller",
+      "voiceSpeed": 1,
+      "retryCount": 1,
+      "createdAt": "2026-11-10T03:52:19.685Z",
+      "updatedAt": "2026-11-10T04:33:33.078Z",
+      "audioPath": "/app/applet/data/audio/adam_1794283377103_q9hm2.mp3",
+      "audioUrl": "/api/media/audio/adam_1794283377103_q9hm2.mp3",
+      "actualDurationSeconds": 18.86,
+      "videoFilePath": "/app/applet/data/videos/short_1794282739685_jrq8_short.mp4",
+      "videoUrl": "/api/media/videos/short_1794282739685_jrq8_short.mp4",
+      "thumbnailPath": "/app/applet/data/thumbnails/short_1794282739685_jrq8_thumb.jpg",
+      "thumbnailUrl": "/api/media/thumbnails/short_1794282739685_jrq8_thumb.jpg"
+    }
+  ],
+  "logs": [
+    {
+      "id": "log_1794285315917_64csm",
+      "timestamp": "2026-11-10T04:35:15.917Z",
+      "level": "success",
+      "category": "rendering",
+      "message": "[Job short_1794285300869_14lf] Rendered 1080x1920 MP4 successfully: \"The Shocking Truth About Cosmic Void Discovery\""
+    },
+    {
+      "id": "log_1794285303861_9ne4k",
+      "timestamp": "2026-11-10T04:35:03.861Z",
+      "level": "info",
+      "category": "generation",
+      "message": "Synthesized narration with authorized Adam Voice profile [deep_storyteller] (16.3s)"
+    },
+    {
+      "id": "log_1794285300870_ezm7e",
+      "timestamp": "2026-11-10T04:35:00.870Z",
+      "level": "info",
+      "category": "generation",
+      "message": "[Job short_1794285300869_14lf] Starting automated production for: \"The Mystery of Cosmic Void Discovery\""
+    },
+    {
+      "id": "log_1794285300869_ca0b3",
+      "timestamp": "2026-11-10T04:35:00.869Z",
+      "level": "info",
+      "category": "generation",
+      "message": "Queued video for creation: \"The Mystery of Cosmic Void Discovery\""
+    },
+    {
+      "id": "log_1794285291370_c6372",
+      "timestamp": "2026-11-10T04:34:51.370Z",
+      "level": "info",
+      "category": "automation",
+      "message": "ShortForge Cloud Automation worker active (independent of browser)."
+    },
+    {
+      "id": "log_1794285213078_d8buf",
+      "timestamp": "2026-11-10T04:33:33.078Z",
+      "level": "success",
+      "category": "rendering",
+      "message": "[Job short_1794282739685_jrq8] Rendered 1080x1920 MP4 successfully: \"The Shocking Truth About The Oak Island Money Pit\""
+    },
+    {
+      "id": "log_1794284164185_n43hl",
+      "timestamp": "2026-11-10T04:16:04.185Z",
+      "level": "success",
+      "category": "rendering",
+      "message": "[Job short_1794282794644_o4n3] Rendered 1080x1920 MP4 successfully: \"The Shocking Truth About Bermuda Triangle Deep Sonar\""
+    },
+    {
+      "id": "log_1794283378382_rka4i",
+      "timestamp": "2026-11-10T04:02:58.382Z",
+      "level": "info",
+      "category": "generation",
+      "message": "Synthesized narration with authorized Adam Voice profile [deep_storyteller] (18.4s)"
+    },
+    {
+      "id": "log_1794283378374_eph9w",
+      "timestamp": "2026-11-10T04:02:58.374Z",
+      "level": "info",
+      "category": "generation",
+      "message": "Synthesized narration with authorized Adam Voice profile [deep_storyteller] (18.9s)"
+    },
+    {
+      "id": "log_1794283377111_3tcxk",
+      "timestamp": "2026-11-10T04:02:57.111Z",
+      "level": "info",
+      "category": "automation",
+      "message": "ShortForge Cloud Automation worker active (independent of browser)."
+    },
+    {
+      "id": "log_1794283377102_ccpye",
+      "timestamp": "2026-11-10T04:02:57.102Z",
+      "level": "info",
+      "category": "generation",
+      "message": "[Job short_1794282739685_jrq8] Starting automated production for: \"The Shocking Truth About The Oak Island Money Pit\""
+    },
+    {
+      "id": "log_1794283377094_3i770",
+      "timestamp": "2026-11-10T04:02:57.094Z",
+      "level": "info",
+      "category": "generation",
+      "message": "[Job short_1794282794644_o4n3] Starting automated production for: \"The Shocking Truth About Bermuda Triangle Deep Sonar\""
+    },
+    {
+      "id": "log_1794283006399_ob5qk",
+      "timestamp": "2026-11-10T03:56:46.399Z",
+      "level": "info",
+      "category": "generation",
+      "message": "Synthesized narration with authorized Adam Voice profile [deep_storyteller] (18.4s)"
+    },
+    {
+      "id": "log_1794282999554_3r99b",
+      "timestamp": "2026-11-10T03:56:39.554Z",
+      "level": "info",
+      "category": "generation",
+      "message": "Synthesized narration with authorized Adam Voice profile [deep_storyteller] (18.9s)"
+    },
+    {
+      "id": "log_1794282998403_6ee92",
+      "timestamp": "2026-11-10T03:56:38.403Z",
+      "level": "info",
+      "category": "automation",
+      "message": "ShortForge Cloud Automation worker active (independent of browser)."
+    },
+    {
+      "id": "log_1794282998394_oid5d",
+      "timestamp": "2026-11-10T03:56:38.394Z",
+      "level": "info",
+      "category": "generation",
+      "message": "[Job short_1794282739685_jrq8] Starting automated production for: \"The Shocking Truth About The Oak Island Money Pit\""
+    },
+    {
+      "id": "log_1794282998391_ts29l",
+      "timestamp": "2026-11-10T03:56:38.391Z",
+      "level": "info",
+      "category": "generation",
+      "message": "[Job short_1794282794644_o4n3] Starting automated production for: \"The Mystery of Bermuda Triangle Deep Sonar\""
+    },
+    {
+      "id": "log_1794282903345_3on42",
+      "timestamp": "2026-11-10T03:55:03.346Z",
+      "level": "info",
+      "category": "generation",
+      "message": "Synthesized narration with authorized Adam Voice profile [deep_storyteller] (18.9s)"
+    },
+    {
+      "id": "log_1794282874738_7ekod",
+      "timestamp": "2026-11-10T03:54:34.738Z",
+      "level": "info",
+      "category": "automation",
+      "message": "ShortForge Cloud Automation worker active (independent of browser)."
+    },
+    {
+      "id": "log_1794282874737_5q9xr",
+      "timestamp": "2026-11-10T03:54:34.737Z",
+      "level": "info",
+      "category": "generation",
+      "message": "[Job short_1794282739685_jrq8] Starting automated production for: \"The Mystery of The Oak Island Money Pit\""
+    },
+    {
+      "id": "log_1794282874733_ifzgz",
+      "timestamp": "2026-11-10T03:54:34.733Z",
+      "level": "info",
+      "category": "generation",
+      "message": "[Job short_1794282794644_o4n3] Starting automated production for: \"The Mystery of Bermuda Triangle Deep Sonar\""
+    },
+    {
+      "id": "log_1794282857141_x145q",
+      "timestamp": "2026-11-10T03:54:17.141Z",
+      "level": "info",
+      "category": "automation",
+      "message": "ShortForge Cloud Automation worker active (independent of browser)."
+    },
+    {
+      "id": "log_1794282820567_b7hg7",
+      "timestamp": "2026-11-10T03:53:40.567Z",
+      "level": "info",
+      "category": "automation",
+      "message": "ShortForge Cloud Automation worker active (independent of browser)."
+    },
+    {
+      "id": "log_1794282794645_f8496",
+      "timestamp": "2026-11-10T03:53:14.645Z",
+      "level": "info",
+      "category": "generation",
+      "message": "[Job short_1794282794644_o4n3] Starting automated production for: \"The Mystery of Bermuda Triangle Deep Sonar\""
+    },
+    {
+      "id": "log_1794282794645_5elg0",
+      "timestamp": "2026-11-10T03:53:14.645Z",
+      "level": "info",
+      "category": "generation",
+      "message": "Queued video for creation: \"The Mystery of Bermuda Triangle Deep Sonar\""
+    },
+    {
+      "id": "log_1794282741174_cu4wj",
+      "timestamp": "2026-11-10T03:52:21.174Z",
+      "level": "warn",
+      "category": "generation",
+      "message": "[Job short_1794282739685_jrq8] Retrying after error: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
+    },
+    {
+      "id": "log_1794282739686_65k3g",
+      "timestamp": "2026-11-10T03:52:19.686Z",
+      "level": "info",
+      "category": "generation",
+      "message": "[Job short_1794282739685_jrq8] Starting automated production for: \"The Mystery of The Oak Island Money Pit\""
+    },
+    {
+      "id": "log_1794282739685_cghtm",
+      "timestamp": "2026-11-10T03:52:19.685Z",
+      "level": "info",
+      "category": "generation",
+      "message": "Queued video for creation: \"The Mystery of The Oak Island Money Pit\""
+    },
+    {
+      "id": "log_1794282726607_mi3ie",
+      "timestamp": "2026-11-10T03:52:06.607Z",
+      "level": "info",
+      "category": "automation",
+      "message": "ShortForge Cloud Automation worker active (independent of browser)."
+    }
+  ]
+}

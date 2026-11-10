@@ -1,0 +1,6 @@
+{
+  "name": "ShortForge AI",
+  "description": "Production-ready AI YouTube Shorts platform with automated topic research, scriptwriting, Adam Voice narration, 9:16 MP4 video rendering, and scheduled publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,28 @@
+[Script Info]
+Title: ShortForge AI Dynamic Shorts Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,76,&H0000FFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,2,0,1,8,4,2,60,60,760,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.00,Default,,0,0,0,,WHAT THEY DISCOVERED BENEATH
+Dialogue: 0,0:00:02.00,0:00:04.00,Default,,0,0,0,,THE OAK ISLAND MONEY
+Dialogue: 0,0:00:04.00,0:00:06.00,Default,,0,0,0,,PIT WAS NEVER SUPPOSED
+Dialogue: 0,0:00:06.00,0:00:08.00,Default,,0,0,0,,TO SEE THE LIGHT
+Dialogue: 0,0:00:08.00,0:00:10.00,Default,,0,0,0,,OF DAY.
+Dialogue: 0,0:00:10.00,0:00:12.21,Default,,0,0,0,,FOR CENTURIES, HISTORIANS WERE
+Dialogue: 0,0:00:12.21,0:00:14.42,Default,,0,0,0,,BAFFLED BY A SUDDEN
+Dialogue: 0,0:00:14.42,0:00:16.64,Default,,0,0,0,,DISAPPEARANCE RECORDED IN ANCIENT
+Dialogue: 0,0:00:16.64,0:00:18.85,Default,,0,0,0,,LEDGERS.
+Dialogue: 0,0:00:18.85,0:00:18.85,Default,,0,0,0,,WHEN MODERN UNDERGROUND SONAR
+Dialogue: 0,0:00:18.85,0:00:18.85,Default,,0,0,0,,EQUIPMENT WAS DEPLOYED, THEY
+Dialogue: 0,0:00:18.85,0:00:18.85,Default,,0,0,0,,FOUND AN ENGINEERED HOLLOW
+Dialogue: 0,0:00:18.85,0:00:18.85,Default,,0,0,0,,CHAMBER.
